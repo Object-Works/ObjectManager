@@ -9,6 +9,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(ObjectManager WIN32
     src/manager.cpp
+    src/app.manifest
     src/manager.rc
 )
 
