@@ -1,0 +1,4 @@
+#pragma once
+
+#define OM_VERSION_STRING "@PROJECT_VERSION@"
+#define OM_VERSION_WSTRING L"@PROJECT_VERSION@"
